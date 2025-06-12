@@ -64,8 +64,3 @@ npx serve .
 ---
 
 **Enjoy your music! 🎶**
-
-```
-
-Let me know if you want this exported as a `.md` file.
-```
